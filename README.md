@@ -1,17 +1,17 @@
 # Oi! Bem vindos ao meu Perfil 
 
 ##    - Hobbies:
-###   - ♟ Chess Player
-###   - 🎮 Gamer
-###   - 🎧 Ouvir Música
+###   - ♟ Chess Player;
+###   - 🎮 Gamer;
+###   - 🎧 Ouvir Música;
 
 ##    - Profissões:
 ###   - 🌐 Assistente de serviços em Comércio Exterior - IFRS;
-###   - 🎮 Processo de aprendizagem para Programador de Jogos Digitais- SENAI;
+###   - 🎮 Programador de Jogos Digitais- SENAI;
 
 ##      
 ###   - Programador C# e Unity;
-###   - Level Design;
+###   - Games:
 [![Itchi.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://tokjiim.itch.io/)
 
 
