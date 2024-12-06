@@ -1,4 +1,5 @@
-# Hi! Welcome to my profile 
+# Hi! Welcome to my profile
+## Find out a little about me:
 
 ##    - Hobbies:
 ###   - ♟ Chess Player;
@@ -6,8 +7,8 @@
 ###   - 🎧 Listen Music;
 
 ##    - Diplomas:
-###   - 🌐 Internationa Trade Service Assistant - IFRS;
-###   - 🎮 Digital Game Developer - SENAI;
+###   - 🌐 International Trade Service Assistant - IFRS;
+###   - 🎮 Game Developer - SENAI;
 
       
 ##   - Games:
