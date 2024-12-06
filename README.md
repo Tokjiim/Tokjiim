@@ -1,6 +1,5 @@
 # Hi! Welcome to my profile
-
-## Find out a little about me:
+ Find out a little about me:
 
 ##    - Hobbies:
 ###   - ♟ Chess Player;
