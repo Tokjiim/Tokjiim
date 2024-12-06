@@ -1,22 +1,21 @@
-# Oi! Bem vindos ao meu Perfil 
+# Hi! Welcome to my profile 
 
 ##    - Hobbies:
 ###   - ♟ Chess Player;
 ###   - 🎮 Gamer;
-###   - 🎧 Ouvir Música;
+###   - 🎧 Listen Music;
 
-##    - Profissões:
-###   - 🌐 Assistente de serviços em Comércio Exterior - IFRS;
-###   - 🎮 Programador de Jogos Digitais- SENAI;
+##    - Diplomas:
+###   - 🌐 Internationa Trade Service Assistant - IFRS;
+###   - 🎮 Digital Game Developer - SENAI;
 
-##      
-###   - Programador C# e Unity;
-###   - Games:
+      
+##   - Games:
 [![Itchi.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://tokjiim.itch.io/)
 
 
 
-## Sociais: 
+## Social media: 
 <div> 
   <a href="https://www.instagram.com/borned_caua/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cauabarrreto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -29,7 +28,7 @@
 ![Cauã Barreto GitHub stats](https://github-readme-stats.vercel.app/api?username=Tokjiim&show_icons=true&theme=Gradient)
 ![Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=Tokjiim&layout=compact&hide_title=true&theme=radical)
 
-## Tecnologias:
+## Technologies:
 <div style="display: inline_block"><br/>
    <img align="center" alt="Unity" heigth = 60 width = 60 src=  "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 -
